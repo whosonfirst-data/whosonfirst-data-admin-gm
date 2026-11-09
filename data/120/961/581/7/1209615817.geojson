@@ -42,7 +42,7 @@
         "gn:id":2413834
     },
     "wof:country":"GM",
-    "wof:geomhash":"fee7f66f0a862708236335bd5072285d",
+    "wof:geomhash":"64d3e0d3bdf932377da30808380772e3",
     "wof:hierarchy":[
         {
             "country_id":85632603,
@@ -65,5 +65,5 @@
     -14.0,
     13.4
 ],
-  "geometry": {"coordinates":[-14.0,13.4],"type":"Point"}
+  "geometry": {"coordinates":[-14,13.4],"type":"Point"}
 }

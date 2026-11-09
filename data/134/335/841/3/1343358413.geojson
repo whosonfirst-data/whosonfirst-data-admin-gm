@@ -230,7 +230,7 @@
         "gn:id":2411755
     },
     "wof:country":"GM",
-    "wof:geomhash":"c0f3e1b4aaf6b09d1b2aedd8fcb24013",
+    "wof:geomhash":"62a739bab7de13d9687e659e8b24f729",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -256,5 +256,5 @@
     -16.35582999999999,
     13.19861
 ],
-  "geometry": {"coordinates":[-16.35582999999999,13.19861],"type":"Point"}
+  "geometry": {"coordinates":[-16.35583,13.19861],"type":"Point"}
 }

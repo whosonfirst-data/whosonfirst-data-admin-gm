@@ -41,7 +41,7 @@
     },
     "wof:country":"GM",
     "wof:created":1469051459,
-    "wof:geomhash":"ad012a3b7d769c7006bde03ca065dd0e",
+    "wof:geomhash":"936b9ea60a81e9842d230ed35545569f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -69,5 +69,5 @@
     -16.0,
     13.5
 ],
-  "geometry": {"coordinates":[-16.0,13.5],"type":"Point"}
+  "geometry": {"coordinates":[-16,13.5],"type":"Point"}
 }

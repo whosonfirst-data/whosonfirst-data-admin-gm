@@ -54,7 +54,7 @@
         "wk:page":"Gunjur"
     },
     "wof:country":"GM",
-    "wof:geomhash":"21b6971833fc4dbf0e4089028ece6bf2",
+    "wof:geomhash":"27e6d09cb82226890c4935b3089eb27b",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     -16.75832999999999,
     13.18167
 ],
-  "geometry": {"coordinates":[-16.75832999999999,13.18167],"type":"Point"}
+  "geometry": {"coordinates":[-16.75833,13.18167],"type":"Point"}
 }
