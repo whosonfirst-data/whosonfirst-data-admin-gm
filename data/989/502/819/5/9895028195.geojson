@@ -1,0 +1,75 @@
+{
+  "id": 9895028195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-16.6855,13.38753,-16.6855,13.38753",
+    "geom:latitude":13.38753,
+    "geom:longitude":-16.6855,
+    "gn:population":7687,
+    "iso:country":"GM",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640504: name \"Sinchu Sorry\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640504"
+        },
+        {
+            "citation":"GeoNames populated place 12640504: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640504"
+        },
+        {
+            "citation":"GeoNames populated place 12640504: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640504"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890413349 (Kombo North), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632603,
+        85671525,
+        102191573,
+        890413349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640504
+    },
+    "wof:country":"GM",
+    "wof:geomhash":"18db5fdf4f03fc33cd057e156c611a46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632603,
+            "county_id":890413349,
+            "locality_id":9895028195,
+            "region_id":85671525
+        }
+    ],
+    "wof:id":9895028195,
+    "wof:lastmodified":1795735254,
+    "wof:name":"Sinchu Sorry",
+    "wof:parent_id":890413349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gm",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -16.6855,
+    13.38753,
+    -16.6855,
+    13.38753
+],
+  "geometry": {"coordinates":[-16.6855,13.38753],"type":"Point"}
+}
